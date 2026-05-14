@@ -1,0 +1,17 @@
+﻿   Qt/MSBuild: 3.4.1.0
+   Qt: 6.10.2
+  inventario.cpp
+  venta.cpp
+  reparacion.cpp
+  database_manager.cpp
+  producto.cpp
+  ProyectoAquamarine.cpp
+  main.cpp
+  qrc_ProyectoAquamarine.cpp
+  moc_ProyectoAquamarine.cpp
+  Generando código
+  11 of 1177 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    52 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Aquamarine.vcxproj -> C:\Users\igfor\Documents\Codex\2026-04-22-ayudame-con-mi-proyecto-de-visual\Aquamarine\x64\Release\Aquamarine.exe
